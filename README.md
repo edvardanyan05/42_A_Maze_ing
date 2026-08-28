@@ -505,11 +505,9 @@ They were used for:
 
 * Explaining maze-generation algorithms such as Prim's algorithm.
 * Discussing data structures and maze representations.
-* Reviewing code for possible bugs and improvements.
 * Helping identify type-checking and linting issues.
 * Discussing configuration parsing and validation.
 * Improving the terminal visualisation.
-* Helping understand project requirements and organise the README.
 * Suggesting tests and edge cases.
 
 AI-generated suggestions were reviewed, tested and adapted before being used. The final code was checked manually and with tools such as Flake8 and Mypy.
