@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by <mvoskany>, <edmvarda>.*
+*This project has been created as part of the 42 curriculum by <edmvarda>, <mvoskany>.*
 
 # A-Maze-ing
 
