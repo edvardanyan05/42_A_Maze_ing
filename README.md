@@ -447,9 +447,9 @@ make lint
 
 ### Team Members
 
-* `<mvoskany>` — Maze generation and algorithm (Prim's algorithm)
 * `<edmvarda>` — Configuration parsing and validation
-* `<mvoskany>, <edmvarda>` — Shorest path finding (Bidirectional BFS) and Visualisation
+* `<mvoskany>` — Maze generation and algorithm (Prim's algorithm)
+* `<edmvarda>, <mvoskany> ` — Shorest path finding (Bidirectional BFS) and Visualisation
 
 ### Planning
 
